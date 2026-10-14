@@ -1,0 +1,37 @@
+# AI Emergency Traffic Corridor — Project Evidence
+
+## 1. Project Overview
+This project explores the use of Artificial Intelligence (AI) to reduce delays faced by emergency vehicles due to traffic congestion and red signals.
+
+## 2. Problem Statement
+Emergency vehicles lose critical response time because congestion along their routes is not identified early and traffic signals are not cleared in time.
+
+## 3. Project Objective
+- Identify congestion along emergency routes.
+- Analyse available traffic data.
+- Explore congestion-aware route suggestions.
+- Support traffic signal coordination with authorized human supervision.
+- Improve emergency response efficiency while maintaining safety.
+
+## 4. Customer and Stakeholders
+- Ambulance and fire-engine drivers
+- Emergency dispatchers
+- Traffic controllers and traffic police
+- City traffic authorities
+- Patients and the public
+
+## 5. Evidence to Be Collected
+- Emergency driver interviews
+- Dispatcher and traffic controller feedback
+- Permitted traffic observations
+- Authorized traffic and signal data
+- Testing and evaluation results
+
+## 6. Proposed Approach
+Analyse permitted traffic data to identify congestion and possible delays along emergency routes. Explore route suggestions and signal coordination under authorized human supervision.
+
+## 7. Safety and Privacy
+No live traffic signals or emergency vehicles will be tested without authorization and appropriate safety controls. Personal data, credentials and confidential information must not be published.
+
+## 8. Current Status
+Problem validation and planning stage. Actual time savings, AI accuracy and system reliability are yet to be measured.
